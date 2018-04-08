@@ -12,7 +12,10 @@
     "precommit": "lint-staged"
   },
   "lint-staged": {
-    "*.{ts,md}": ["prettier --write", "git add"]
+    "*.{ts,md}": [
+      "prettier --write",
+      "git add"
+    ]
   },
   "repository": {
     "type": "git",
@@ -44,7 +47,8 @@
     "enhanced-resolve": "^4.0.0",
     "loader-utils": "^1.0.2",
     "micromatch": "^3.1.4",
-    "semver": "^5.0.1"
+    "semver": "^5.0.1",
+    "webpack-dev-server": "3.1.2"
   },
   "devDependencies": {
     "@types/micromatch": "^3.1.0",
