@@ -65,8 +65,8 @@
   },
   "dependencies": {
     "core-js": "^2.4.1",
-    "react": "^16.0.0",
-    "react-dom": "^16.0.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.1",
     "whatwg-fetch": "^2.0.3"
   }
 }
