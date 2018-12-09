@@ -43,7 +43,7 @@
     "chalk": "^2.3.0",
     "enhanced-resolve": "^4.0.0",
     "loader-utils": "^1.0.2",
-    "micromatch": "^3.1.4",
+    "micromatch": "^3.1.5",
     "semver": "^5.0.1"
   },
   "devDependencies": {
